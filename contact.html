@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kiame Restaurant</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="restaurant.css">
+    <style>
+        body {
+            background-image: url(food.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: fixed;
+            font-family: "Times New Roman", Georgia, Serif;
+            margin: 0;
+            width: 100vw;
+            height: 100vh;
+            padding: 0;
+        } 
+        h2 {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 50px;
+            color: rgb(255, 255, 255);
+            margin-top: 30px;
+            text-shadow: 2px 2px 4px #000000;
+        } 
+        h3 {
+            text-align:center; 
+            color:#B59410;
+        }
+        footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #000000;
+            color: rgb(167, 140, 4);
+            text-align: center;
+            padding: 10px;
+        }
+        footer p {
+            margin: 0;
+            align-content: center;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <ul>
+            <li class="logo"><a href="index.html">Kiame</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+            <li><a href="menu.html">MENU</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
+            <li><a href="signup.html">SIGN UP</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h3 style="margin-top:100px;"> Wanna send in a rewiew, suggestion or complaint?</h3>
+        <div class="signup-box">
+            <form action="index.html">
+                <h1>Contact Us</h1>
+                <div class="textbox">
+                    <input type="text" placeholder="Name" name="name">
+                </div>
+                <div class="textbox">
+                    <input type="text" placeholder="Email or Phone" name="email_phone">
+                </div>
+                <div class="textbox">
+                    <input type="text" placeholder="Message" name="password">
+                </div>
+                <input class="btn" type="submit" value="Send">
+            </form>
+        </div>
+    </main>
+    <footer>
+        <p class="logo">Kiame</p>
+        <p>&copy; 2024 Kiame Restaurant. All rights reserved.</p>
+        <p>Contact us on &emsp;  Email &emsp; Twitter &emsp; Instagram &emsp; Facebook </p>
+    </footer>
+    
+</body>
+</html>
