@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Polo Shirt",
+        "description": "classic polo shirt released in 1959",
+        "price": 25.00,
+        "categories": ["vintage", "medium", "mens"]
+    },
+    {
+        "name": "Versace Purple Dress",
+        "description": "First purple dress designed by Versace",
+        "price": 900.00,
+        "categories": ["classic", "small", "womens"]
+    },
+    {
+        "name": "Nike Air Max",
+        "description": "First Nike Air Max shoes released in 1987",
+        "price": 120.00,
+        "categories": ["classic", "medium", "mens"]
+    },
+    {
+        "name": "Adidas Superstar",
+        "description": "First Adidas Superstar shoes released in 1969",
+        "price": 80.00,
+        "categories": ["classic", "medium", "mens"]
+    },
+    {
+        "name": "Chanel Black Dress",
+        "description": "First black dress designed by Chanel",
+        "price": 1500.00,
+        "categories": ["classic", "medium", "womens"]
+    },
+    {
+        "name": "Ralph Lauren Polo Shirt",
+        "description": "classic polo shirt released in 1972",
+        "price": 30.00,
+        "categories": ["vintage", "medium", "mens"]
+    },
+    {
+        "name": "Converse All Star",
+        "description": "First Converse All Star shoes released in 1917",
+        "price": 60.00,
+        "categories": ["classic", "medium", "mens"]
+    },
+    {
+        "name": "Gucci Black Dress",
+        "description": "First black dress designed by Gucci",
+        "price": 2000.00,
+        "categories": ["classic", "medium", "womens"]
+    },
+    {
+        "name": "Lacoste Polo Shirt",
+        "description": "classic polo shirt released in 1933",
+        "price": 35.00,
+        "categories": ["vintage", "medium", "mens"]
+    },
+    {
+        "name": "Vans Old Skool",
+        "description": "First Vans Old Skool released in 1977",
+        "price": 70.00,
+        "categories": ["classic", "medium", "womens"]
+    }
+]
